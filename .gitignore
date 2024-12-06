@@ -1,6 +1,3 @@
-node_modules/
-.env
-actual-budget-test.js
-*.log
-akahu_sync_timestamps.json
-.idea/
+node_modules
+/actual-data/
+.idea
